@@ -1,5 +1,5 @@
 # LSTM
-This is a LSTM  for Appliance Consumption Prediction
+This is a LSTM to predict energy consumption in a building using time series data.
 
 Time Series Prediction with LSTM Neural Networks
 This dataset contains various features related to energy consumption in a residential building.
