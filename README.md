@@ -2,6 +2,9 @@
 This is a LSTM  for Appliance Consumption Prediction
 
 Time Series Prediction with LSTM Neural Networks
+This dataset contains various features related to energy consumption in a residential building.
+
+You can find the dataset here: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction 
 
 Importing Libraries: I used Pandas for handling the data, NumPy for math operations, sklearn for data preparation, and TensorFlow Keras to create my LSTM model.
 
